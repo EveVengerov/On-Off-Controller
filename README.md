@@ -6,9 +6,9 @@ This technical report aims to provide a detailed guide for constructing a cost-e
 
 https://github.com/EveVengerov/On-Off-Controller/assets/70894557/fa8f9ea5-191c-4651-85bc-8a40891ef174
 
-##Maximum and Minimum Recorded Temperatures:
-###Maxium:
+## Maximum and Minimum Recorded Temperatures:
+### Maxium:
 <img src="https://github.com/EveVengerov/On-Off-Controller/assets/70894557/28030e07-6d1e-4bd8-ab21-0b1c17a098f7" width="600" >
 
-###Minimum:
-<img src="https://github.com/EveVengerov/On-Off-Controller/blob/3a73f754bf0ac7bac61da207398baf61136a63f1/Media/Screenshot%202023-06-11%20213249.png" width="500">
+### Minimum:
+<img src="https://github.com/EveVengerov/On-Off-Controller/blob/d410561f0323da58a73eb483357aed0b08652dfb/Media/Screenshot%202023-06-11%20213249.png" width="500">
