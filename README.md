@@ -9,4 +9,4 @@ https://github.com/EveVengerov/On-Off-Controller/assets/70894557/fa8f9ea5-191c-4
 Maximum and Minimum Recorded Temperatures:
 
 <img src="https://github.com/EveVengerov/On-Off-Controller/assets/70894557/28030e07-6d1e-4bd8-ab21-0b1c17a098f7" width="600" >
-<img src="https://github.com/EveVengerov/On-Off-Controller/blob/b63d2cbee2b4b8435f0a4b10c2a06f5f182676bc/Media/Screenshot%202023-06-11%20213249.png" width="500">
+<img src="https://github.com/EveVengerov/On-Off-Controller/blob/3a73f754bf0ac7bac61da207398baf61136a63f1/Media/Screenshot%202023-06-11%20213249.png" width="500">
