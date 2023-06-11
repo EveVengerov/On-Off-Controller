@@ -12,5 +12,6 @@ https://github.com/EveVengerov/On-Off-Controller/assets/70894557/fa8f9ea5-191c-4
 
 ### Minimum:
 <img src="./Media/Screenshot 2023-06-11 213249.png" width = "600">
+![Example Image](./Media/Screenshot 2023-06-11 213249.png)
 
 
