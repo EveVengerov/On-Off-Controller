@@ -3,7 +3,7 @@ This technical report aims to provide a detailed guide for constructing a cost-e
 
 ## The cooling system demonstration without cold sink:
 
-![Peltier Chip with water circulation](https://github.com/EveVengerov/On-Off-Controller/assets/70894557/fa8f9ea5-191c-4651-85bc-8a40891ef174)
+https://github.com/EveVengerov/On-Off-Controller/assets/70894557/fa8f9ea5-191c-4651-85bc-8a40891ef174
 
 Maximum and Minimum Recorded Temperatures:
 ![ColdSide Temperature](https://github.com/EveVengerov/On-Off-Controller/assets/70894557/28030e07-6d1e-4bd8-ab21-0b1c17a098f7)
